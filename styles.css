@@ -7,6 +7,10 @@ body {
     padding: 0;
   }
   
+  audio {
+    display: none;
+  }
+
   /* Header styles */
   header {
     background-color: #333;
