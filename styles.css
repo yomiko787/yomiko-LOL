@@ -7,9 +7,6 @@ body {
     padding: 0;
   }
   
-  audio {
-    display: none;
-  }
 
   /* Header styles */
   header {
@@ -49,5 +46,9 @@ body {
     color: #fff;
     padding: 10px;
     text-align: center;
+  }
+
+  audio {
+    display: none;
   }
   
